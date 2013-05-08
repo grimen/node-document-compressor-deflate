@@ -1,6 +1,6 @@
 # NODE-DOCUMENT-COMPRESSOR-DEFLATE [![Build Status](https://secure.travis-ci.org/grimen/node-document-compressor-deflate.png)](http://travis-ci.org/grimen/node-document-compressor-deflate)
 
-**Compressor** adapter [deflate](https://github.com/kkaefer/node-zlib) for [node-document](https://github.com/grimen/node-document) ODM for Node.js.
+**Compressor** adapter [deflate](https://github.com/egorFiNE/node-compress-buffer) for [node-document](https://github.com/grimen/node-document) ODM for Node.js.
 
 
 ## Installation
